@@ -231,4 +231,18 @@ ul li {
     main {
         margin-top: 100px;
     }
+
+    .father-div {
+        position: inherit;
+        margin-top: -100px;
+        width: 300px;
+    }
+
+    .main-profile {
+        width: 300px;
+    }
+
+    .father-other-fun {
+        width: 300px;
+    }
 }
