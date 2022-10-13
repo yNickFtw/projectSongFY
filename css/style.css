@@ -206,3 +206,29 @@ ul li {
     width: 350px;
     height: 300px;
 }
+
+@media (max-width: 600px) {
+    #search {
+        display: none;
+    }
+
+    .search {
+        display: none;
+    }
+
+    .search-icon {
+        display: none;
+    }
+
+    .song-fy {
+        display: none;
+    }
+
+    #featured {
+        margin-top: 80px;
+    }
+
+    main {
+        margin-top: 100px;
+    }
+}
